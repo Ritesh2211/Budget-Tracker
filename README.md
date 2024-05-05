@@ -1,5 +1,9 @@
 # Expense Tracker (MERN)
-
+Designed and implemented the MongoDB database schema to store user budget data securely.
+• Implemented RESTful API endpoints using Node.js and Express.js for handling CRUD (Create, Read,
+Update, Delete) operations for budget items.
+• Created a responsive and intuitive user interface using React.js, allowing users to efficiently manage their
+budgets on various devices.
 > Full stack expense tracker
 
 ## Usage
