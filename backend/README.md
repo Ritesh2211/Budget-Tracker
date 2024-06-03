@@ -1,8 +1,8 @@
-# Expense Tracker (MERN)
-
+# Budget Tracker (MERN)
 > Full stack expense tracker
+![image](https://github.com/Ritesh2211/Budget-Tracker/assets/137499407/146c89ca-93af-4b2d-ba6b-d345bf4def1b)
 
-## Usage
+<!--## Usage
 
 ```
 change config.env file in config folder
